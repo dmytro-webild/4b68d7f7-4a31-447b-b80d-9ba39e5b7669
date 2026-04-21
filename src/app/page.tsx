@@ -165,6 +165,7 @@ export default function LandingPage() {
       buttons={[
         { text: "Get In Touch", href: "#contact" }
       ]}
+      background={{ variant: "plain" }}
       useInvertedBackground={false}
     />
   </div>
